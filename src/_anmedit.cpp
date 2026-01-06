@@ -1,0 +1,21 @@
+#include "main.cpp"
+#include "cpp_compat.cpp"
+
+#include "th06/FileSystem.cpp"
+#include "th06/Supervisor.cpp"
+#include "th06/GLFunc.cpp"
+#include "th06/graphics/FixedFunctionGL.cpp"
+#include "th06/AnmManager.cpp"
+#include "th06/GameErrorContext.cpp"
+#include "th06/Rng.cpp"
+#include "th06/ZunTimer.cpp"
+#include "th06/utils.cpp"
+
+#include "glfunc.inc"
+
+#include "imgui/imgui.cpp"
+#include "imgui/imgui_draw.cpp"
+#include "imgui/imgui_tables.cpp"
+#include "imgui/imgui_widgets.cpp"
+#include "imgui/backends/imgui_impl_sdl2.cpp"
+#include "imgui/backends/imgui_impl_opengl2.cpp"
